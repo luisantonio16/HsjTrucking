@@ -164,6 +164,16 @@ margin: auto;
     background-color: #D56918;
 }
 .titulo1{
+    -webkit-color: var(--color-naranja);
+    -webkit-font-size: 30px;
+    -webkit-font-weight: 500;
+    -webkit-font-family: "Roboto", sans-serif;
+
+    -moz-color: var(--color-naranja);
+    -moz-font-size: 30px;
+    -moz-font-weight: 500;
+    -moz-font-family: "Roboto", sans-serif;
+    
     color: var(--color-naranja);
     font-size: 30px;
     font-weight: 500;
